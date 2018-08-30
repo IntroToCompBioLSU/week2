@@ -1,0 +1,77 @@
+    1  curl -sL https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
+    2  sudo apt install curl
+    3  curl -sL https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
+    4  sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
+    5  sudo apt-get update
+    6  sudo apt-get install atom
+    7  cd .
+    8  pwd
+    9  cd /home/compbio/Desktop
+   10  cd /home/compbio/Desktop/Biology/Evolution/Phylogenetics/
+   11  cd ~ 
+   12  cd Desktop/Biology/Evoltion/Phylogentics
+   13  cd. /Desktop/Biology/Evolution/Phylogenetics
+   14  cd ./Desktop/Biology/Evolution/Phylogenetics
+   15  ls
+   16  ls.
+   17  cd -
+   18  ls -a
+   19  pwd
+   20  cd.
+   21  cd .
+   22  cd Desktop
+   23  nano
+   24  touch aaa.txt
+   25  cat aaa.txt 
+   26  nano aaa.txt
+   27  cat aaa.txt 
+   28  cat *.txt
+   29  ls *.txt
+   30  cd ..
+   31  rm aaa.txt
+   32  cd Desktop
+   33  ls
+   34  rm aaa.txt
+   35  ls -l
+   36  cd /Desktop
+   37  pwd
+   38  cd Desktop
+   39  mkdir Biology
+   40  ls
+   41  cd /Desktop/Biology/
+   42  BIology
+   43  rmdir Biology
+   44  mkdir Biology
+   45  cd /Desktop/Biology
+   46  cd Biology
+   47  cd ..
+   48  /Desktop
+   49  cd /Desktop
+   50  cd Desktop
+   51  mkdir Biology
+   52  cd Biology
+   53  mkdir Evolution
+   54  mkdir Ecology
+   55  mkdir CellBiology
+   56  touch README.txt
+   57  cd Evolution
+   58  mkdir Phylogenetics
+   59  touch ImportantEvolTopics.txt
+   60  cd ..
+   61  cd CellBiology
+   62  touch ImportantCellBioTopics.txt
+   63  cd ..
+   64  cd Ecology
+   65  touch ImportantEcolTopics.txt
+   66  cd ..
+   67  cd /home/compbio/Desktop/Biology/Evolution/Phylogenetics
+   68  nano
+   69  cd ../..
+   70  ls -l
+   71  ls -l > BioContents.txt
+   72  cd CellBiology
+   73  rmdir CellBiology
+   74  cd ..
+   75  rmdir CellBiology
+   76  rm -r CellBiology
+   77  history > myCommands.txt
