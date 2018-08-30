@@ -1,0 +1,11 @@
+
+   63  cd ~/Desktop/Biology/Evolution/Phylogenetics
+   64  touch Fact.txt
+   65  echo "Powered flight evolved independently 4 times in animals:Insects, Bats, Birds, and Pterosaurs.">>Fact.txt
+   66  cd ..
+   67  touch BioContents.txt
+   68  ll
+   69  ll > BioContents.txt
+   70  rm -r "Cell Biology"
+   71  touch myCommands.txt
+   72  history|tail -n 20 >"myCommands.txt"
