@@ -1,0 +1,20 @@
+   37  ~/Phylogenetics
+   38  ~/Desktop
+   39  /Biology
+   40  cd ~/Desktop/Biology
+   41  /Cell Biology
+   42  Cell Biology
+   43  CellBiology
+   44  cd ~
+   45  cd ~/Desktop/Biology/CellBiology/Ecology/Evolution/Phylogenetics
+   46  nano
+   47  cd~ Desktop/Biology
+   48  cd~
+   49  cd..
+   50  cd ..
+   51  ll
+   52  |
+   53  ll
+   54  history | tail-n 20 >> BioContent.txt
+   55  ll
+   56  history | tail -n 20 >> BioContents.txt
