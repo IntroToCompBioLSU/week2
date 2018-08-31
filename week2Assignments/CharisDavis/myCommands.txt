@@ -1,0 +1,20 @@
+    8  pwd
+    9  cd /home/compbio/desktop
+   10  cd /home/compbio/Desktop
+   11  cd /home/compbio/Desktop/Biology/Evolution/Phylogenetics/
+   12  cd ~
+   13  cd Desktop/Biology/Evolution/Phylogenetics
+   14  cd ~/Desktop/Biology/Evolution/Phylogenetics
+   15  touch Fact.txt
+   16  echo "Killer whales are considered dolphins.">>Fact.txt
+   17  cd ..
+   18  touch BioContents.txt
+   19  ll > BioContents.txt
+   20  rm -r "Cell Biology"
+   21  rm -r "CellBiology"
+   22  rm -r"CellBiology"
+   23  cd ..
+   24  rm -r "CellBiology"
+   25  ls
+   26  touch myCommands.txt
+   27  history|tail -n 20 >"myCommands.txt"
