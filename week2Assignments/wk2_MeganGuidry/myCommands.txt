@@ -1,0 +1,10 @@
+   43  ll BioContents.txt
+   44  rm-r CellBiology
+   45  rm -r CellBiology
+   46  cd BioContents.txt
+   47  rm -r CellBiology
+   48  ll Biocontents.txt
+   49  ll BioContents.txt
+   50  cd ..
+   51  ll BioContents.txt
+   52  history | tail >> myCommands.txt
