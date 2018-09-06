@@ -1,0 +1,28 @@
+  182  cd Desktop
+  183  mkdir Biology
+  184  cd Biology
+  185  touch README.txt
+  186  mkdir CellBiology Ecology Evolution
+  187  cd CellBiology
+  188  touch ImportantCellBioTopics.txt
+  189  cd . .
+  190  cd ..
+  191  cd Ecology
+  192  touch ImportantEcolTopics.txt
+  193  cd ..
+  194  cd Evolution
+  195  touch ImportantEvolTopics.txt
+  196  mkdir Phylogenetics
+  197  cd ~/Desktop/Biology/Evolution/Phylogenetics
+  198  touch PhyloFact.txt
+  199  nano PhyloFact.txt
+  200  cd
+  201  cd Desktop/Biology
+  202  touch BioContents.txt
+  203  ll > BioContents.txt
+  204  rmdir CellBiology
+  205  rm -r CellBiology
+  206  touch myCommands.txt
+  207  history|tail -n 24 myCommands.txt
+  208  history|tail -n 24 >"myCommands.txt"
+  209  history|tail -n 28 >"myCommands.txt"
