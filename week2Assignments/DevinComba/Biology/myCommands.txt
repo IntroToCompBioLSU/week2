@@ -1,0 +1,28 @@
+    9  cd Desktop
+   10  mkdir Biology
+   11  cd Biology
+   12  touch README.txt
+   13  ls
+   14  mkdir CellBiology
+   15  mkdir Ecology
+   16  mkdir Evolution
+   17  touch CellBiology/ImportantCellBioTopics.txt
+   18  touch Ecology/ImportantEcolTopics.txt
+   19  touch Evolution/ImportantEvolTopics.txt
+   20  mkdir Evolution/Phylogenetics
+   21  ls -r
+   22  ls -R
+   23  cd /home/compbio/Desktop/Biology/Evolution/Phylogenetics/
+   24  man nano
+   25  nano FaveFact.txt
+   26  ls 
+   27  cat FaveFact.txt 
+   28  cd ../..
+   29  ll > BioContents.txt
+   30  ls
+   31  cat BioContents.txt 
+   32  ll
+   33  rm -r CellBiology/
+   34  ll
+   35  history
+   36  history | tail -n 28 > myCommands.txt
