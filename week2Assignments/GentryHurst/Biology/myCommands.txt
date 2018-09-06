@@ -1,0 +1,67 @@
+  1  curl -sL https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
+    2  sudo apt install curl
+    3  curl -sL https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
+    4  sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
+    5  sudo apt-get update
+    6  sudo apt-get install atom
+    7  cd
+    8  /cd
+    9  cd/
+   10  cd
+   11  ls
+   12  desktop
+   13  cd/desktop
+   14  ls
+   15  ls/desktop
+   16  ls/biology
+   17  pwd
+   18  /home/combio
+   19  ls
+   20  mkdir history
+   21  ls
+   22  cd history
+   23  nano
+   24  mkdir
+   25  clear
+   26  mkdir history
+   27  nano
+   28  cd
+   29  ls
+   30  cd desktop
+   31  cd desktop/
+   32  pwd
+   33  cd /home/compbio/desktop
+   34  ls
+   35  mkdir history
+   36  ls
+   37  cd history
+   38  nano
+   39  ls
+   40  cd Desktop
+   41  cd endOfHistory.txt
+   42  cd ~
+   43  ls
+   44  cd Desktop/Biology
+   45  ls
+   46  cd Desktop/Biology/Evoluiton
+   47  cd evolution
+   48  cd 
+   49  ls
+   50  Desktop/Biology/Evolution
+   51  pwd
+   52  cd Desktop/Biology/Evolution
+   53  ls
+   54  cd Phylogenetics
+   55  nano
+   56  cd Biology
+   57  cd ~
+   58  pwd
+   59  cd Desktop/Biology
+   60  ll
+   61  nano
+   62  ls
+   63  rm CellBiology
+   64  rm -r CellBiology
+   65  ls
+   66  history
+
