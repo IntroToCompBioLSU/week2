@@ -1,0 +1,10 @@
+   67  ls -l
+   68  ls -l > BioContents.txt
+   69  ls
+   70  less BioContents.txt 
+   71  rmdir CellBiology/
+   72  rm -r CellBiology/
+   73  history | tail myCommands.txt
+   74  history | tail > myCommands.txt
+   75  cat myCommands.txt 
+   76  history | tail > myCommands.txt 
