@@ -1,0 +1,42 @@
+   90  cd Desktop
+   91  rm Biology
+   92  rmdir Biology
+   93  touch Biology 
+   94  mkdir Biology
+   95  cd Desktop
+   96  mkdir Biology
+   97  cd Biology/
+   98  mkdir Evolution Cellbiology Ecology
+   99  ls
+  100  cd Ecology
+  101  touch ImportantTopicsInEcology.txt
+  102  cd ..
+  103  cd /CellBiology
+  104  cd Cellbiology
+  105  touch ImportantTopicsInCellbiology.txt
+  106  cd ..
+  107  cd Ecology 
+  108  mkdir Phylogenetics 
+  109  rmdir Phylogenetics
+  110  cd ..
+  111  cd Evolution
+  112  mkdir Phylogenetics
+  113  touch ImportantTopicsInEvolution
+  114  cd .. 
+  115  cd Evolution/Phylogenetics
+  116  touch ImportantTopicsInPhylogenetics.txt
+  117  touch ComplexOrgans.txt
+  118  nano ComplexOrgans.txt 
+  119  cd ~
+  120  cd Desktop/Biology
+  121  echo | ll > BioContents.txt
+  122  rm -r Cellbiology/
+  123  ls
+  124  history | tail -n > myCommands.txt
+  125  history | tail > myCommands.txt 
+  126  ls 
+  127  cat myCommands.txt
+  128  cat head n-20 myCommands.txt 
+  129  history | head -n 150 > myCommands.txt
+  130  history | tail -n 200 > myCommands.txt 
+  131  history | tail -n 42 > myCommands.txt 
