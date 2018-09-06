@@ -1,0 +1,7 @@
+total 24
+drwxrwxr-x 5 compbio compbio 4096 Aug 28 12:28 ./
+drwxr-xr-x 4 compbio compbio 4096 Aug 29 12:10 ../
+drwxrwxr-x 2 compbio compbio 4096 Aug 28 12:29 CellBiology/
+drwxrwxr-x 2 compbio compbio 4096 Aug 28 12:30 Ecology/
+drwxrwxr-x 3 compbio compbio 4096 Aug 28 12:30 Evolution/
+

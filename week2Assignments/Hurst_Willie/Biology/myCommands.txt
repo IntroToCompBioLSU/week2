@@ -1,0 +1,92 @@
+ 1  curl -sL https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
+    2  sudo apt install curl
+    3  curl -sL https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
+    4  sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
+    5  sudo apt-get update
+    6  sudo apt-get install atom
+    7  cd /
+    8  mkdir
+    9  cd
+   10  /mkdir
+   11  mkdir
+   12  mkdir Directory8.29.18
+   13  cd
+   14  cd/
+   15  cd/ Directory8.29.18
+   16  mkdir Directory1
+   17  /cd Directory1
+   18  mkdir mynewdirectory
+   19  mkdirnewdirectory1
+   20  mkdir help
+   21  mkdir
+   22  mkdir --help
+   23  mkdir MyNewDirectory
+   24  cd Desktop/
+   25  mkdir MyNewDirectory8.29.18
+   26  ls
+   27  cd desktop/ Biology
+   28  cd desktop/
+   29  cd Desktop/
+   30  ls
+   31  Biology
+   32  cd/Biology/Evolution/Phylogenetics
+   33  cd dirphylogenetics
+   34  Biology
+   35  open Biology
+   36  ls
+   37  cd Biology
+   38  ls
+   39  cd Evolution/
+   40  ls
+   41  cd phylogenetics
+   42  ls
+   43  nano
+   44  ls
+   45  cd..
+   46  ..
+   47  cd ..
+   48  ll
+   49  alt
+   50  -a
+   51  -alt
+   52  -l
+   53  ll
+   54  cd Biology
+   55  ls
+   56  cd Desktop
+   57  cd Biology
+   58  ll
+   59  cd ..
+   60  touch BioContents.txt
+   61  ll
+   62  echo ll > > BioContents.txt
+   63  echo ll >> BioContents.txt
+   64  cd Biology
+   65  ls -1
+   66  ll
+   67  ll > BioContents.txt
+   68  ll > BioContents.txt 
+   69  ls
+   70  nano
+   71  cd ..
+   72  cd BioContents
+   73  nano BioContents.txt 
+   74  total 24
+   75  drwxrwxr-x 5 compbio compbio 4096 Aug 28 12:28 ./
+   76  drwxr-xr-x 4 compbio compbio 4096 Aug 29 12:10 ../
+   77  drwxrwxr-x 2 compbio compbio 4096 Aug 28 12:29 CellBiology/
+   78  drwxrwxr-x 2 compbio compbio 4096 Aug 28 12:30 Ecology/
+   79  drwxrwxr-x 3 compbio compbio 4096 Aug 28 12:30 Evolution/
+   80  >BioContents.txt 
+   81  nano BioContents.txt 
+   82  cd Biologu
+   83  cd Biology
+   84  ls
+   85  rm CellBiology
+   86  history
+   87  cd ..
+   88  touch myCommands.txt
+   89  cd Biology
+   90  cd ..
+   91  history
+
