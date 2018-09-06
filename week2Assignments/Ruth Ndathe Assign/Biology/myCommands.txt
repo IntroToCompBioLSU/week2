@@ -1,0 +1,16 @@
+  469  cd ../..
+  470  cd
+  471  cd Desktop
+  472  mkdir Biology
+  473  cd Biology
+  474  mkdir CellBiology Ecology Evolution
+  475  cd Evolution
+  476  mkdir Phylogenetics
+  477  cd
+  478  cd /home/compbio/Desktop/Biology/Evolution/Phylogenetics
+  479  nano
+  480  cd ../..
+  481  ls -l > Biocontents.txt
+  482  rmdir CellBiology
+  483  ls
+  484  history | tail -16 > myCommands.txt
